@@ -8,3 +8,4 @@ class MortgageCalculatorApp(MDApp):
 
 
 MortgageCalculatorApp().run()
+print()
